@@ -1,0 +1,29 @@
+{
+    "myAndrewId":"xianruw"
+    "websites":[
+        {   "title":"Automate and remotely access your HomeKit accessories",
+            "url":"https://support.apple.com/en-us/HT207057",
+            "code":"leanrt how to set up an iPod as a transmitter"
+        },
+        {   "title":"Turning on an LED with your Raspberry Pi's GPIO Pins",
+            "url":"https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins",
+            "code":"leanrt how to deploy an LED light on a Pi"
+        },
+        {   "title":"Running HomeBridge on a Raspberry Pi",
+            "url":"https://github.com/nfarina/homebridge/wiki/Running-HomeBridge-on-a-Raspberry-Pi",
+            "code":"learnt how to deploy HomeBridge"
+        },
+        {   "title":"Examples/How-To",
+            "url":"http://wiringpi.com/examples/",
+            "code":"leanrt how to use wiringpi here"
+        },
+        {   "title":"Basic routing",
+            "url":"https://expressjs.com/en/starter/basic-routing.html",
+            "code":"learnt how to deploy a very simple Express.js server"
+        },
+        {   "title":"HomeBridge",
+            "url":"https://github.com/nfarina/homebridge",
+            "code":"learnt how to write a plugin for homebridge"
+        }
+    ]   
+}
